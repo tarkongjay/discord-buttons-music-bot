@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/milrato",
+      "domain": "https://Musicium.oxytomato.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://Music-Boi-with-buttons.tarkongjay.repl.co/callback",
+        "clientID": "898924289972129843",
+        "secret": "liP2-ffgFzrUOaa5_UTd-foqak_-3PCD"
+    }
+  }
